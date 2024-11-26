@@ -252,13 +252,13 @@ span{
     }
     
     41%, 60%{
-        content: "Editor";
+        content: "Student";
     }
     61%, 80%{
-        content: "Script Writer";
+        content: "Editor";
     }
     81%, 100%{
-        content: "Student";
+        content: "Gamer";
     }
 }
 
